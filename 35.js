@@ -14,7 +14,7 @@ const headers = {
 'Referer' : `https://www.theone.art/`,
 'Host' : `api.theone.art`,
 'User-Agent' : `Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1`,
-'Authorization' : `eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxNTcxMTgyMjM1MCIsImlhdCI6MTY1MjEwMzYwNywiZXhwIjoxNjUyNzA4NDA3fQ.91JGR3kImkLiNOlU_Btgywb7T-HtQkZnrElDFI1-C1BtQNwM0BUSuwcxaVuQnZeeC-LxxqIX81mwyjHj2StFJw`,
+'Authorization' : `eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxNTcxMTgyMjM1MCIsImlhdCI6MTY1Mjc3NDIyMSwiZXhwIjoxNjUzMzc5MDIxfQ.VdqBHvuKtr_qf1Q509SVhnTD0NHAPRpGMNfbOJ-FZD3XrdmkBrZYkG9S6R_ZkWGo83rq1KGzdKAeeuFMIwTuYQ`,
 'Accept-Language' : `zh-CN,zh-Hans;q=0.9`
 };
 const body = ``;
